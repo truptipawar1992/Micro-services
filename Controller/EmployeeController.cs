@@ -11,6 +11,7 @@ namespace Microservice_Demo.Controller
         {
 
         }
+
         [HttpGet]
         [Route("Message")]
         public ActionResult Get()
